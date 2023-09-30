@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Mohammed J. Assi 👋
 
-🔭 I’m currently working on E-Commerce Project
+🔭 I’m currently working on ERP Saas Project
 
 🌱 I’m currently learning Backend & Software Development
 
