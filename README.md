@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**raho0ol/raho0ol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working on E-Commerce Project
 
 🌱 I’m currently learning Backend & Software Development
