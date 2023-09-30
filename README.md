@@ -12,5 +12,7 @@
 
 Connect with me:
 00972567188208
+
 Languages and Tools:
+
 bootstrap cplusplus csharp css3 git html5 java laravel mariadb matlab mssql mysql php postman python tailwind unity
