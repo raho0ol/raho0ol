@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ERP Saas Project
 
-🌱 I’m currently learning Backend & Software Development
+🌱 I’m currently Working In Backend & Software Development
 
 👨‍💻 All of my projects are available at https://github.com/raho0ol
 
