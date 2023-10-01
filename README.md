@@ -10,12 +10,14 @@
 
 📫 How to reach me adt4mmm@gmail.com
 
+<p dir="auto"><a href="https://www.buymeacoffee.com/PHPar" rel="nofollow"><img src="https://camo.githubusercontent.com/b09c3f8b2b1753ecbfc1b499ade7eecbeac19b1bfcd41b0e30400da621d056d7/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d626c61636b2e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png"></a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="+970567188208" target="blank" >+970567188208</a>
-<a href="https://twitter.com/PHPar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raho0ol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raho0ol" height="30" width="40" /></a>
+<a href="https://www.twitter.com/PHPar" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
+  <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raho0ol" height="30" width="40" /></a>
 </p>
 
 
