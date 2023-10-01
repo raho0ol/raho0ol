@@ -1,4 +1,5 @@
-### Hi, I'm Mohammed J. Assi 👋
+### Hi  👋 , I'm Mohammed J. Assi ###
+
 
 <p dir="auto">I started my web development journey in late 2020. After quickly picking up HTML &amp; CSS, I moved on to learn PHP it's most popular framework, Laravel. Somewhere along the way I also picked up JavaScript &amp; React as well.</p>
 
