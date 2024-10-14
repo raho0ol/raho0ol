@@ -1,7 +1,7 @@
 ### Hi  👋 , I'm Mohammed J. Assi ###
 
 
-<p dir="auto">I started my web development journey in late 2020. After quickly picking up HTML &amp; CSS, I moved on to learn PHP it's most popular framework, Laravel. Somewhere along the way I also picked up JavaScript &amp; React as well.</p>
+<p dir="auto">I started my web development journey in late 2005 After quickly picking up HTML &amp; CSS, I moved on to learn PHP it's most popular framework, Laravel. Somewhere along the way I also picked up JavaScript &amp; React as well.</p>
 
 <p dir="auto">Thesedays I mainly work with <a href="https://laravel.com" rel="nofollow">Laravel</a>. TALL stack (<a href="https://tailwindcss.com" rel="nofollow">Tailwind</a>, <a href="https://alpinejs.dev" rel="nofollow">Alpine.js</a>, <a href="https://laravel.com" rel="nofollow">Laravel</a>, <a href="https://laravel-livewire.com" rel="nofollow">Livewire</a>) to be specific. You may also see me occasionally contributing to open-source projects or hanging around in the <a href="https://filamentphp.com" rel="nofollow">Filament</a> Community</p>
 
